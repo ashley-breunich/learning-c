@@ -1,0 +1,11 @@
+/Users/ashleybreunich/practice/learning-c/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.deps.json
+/Users/ashleybreunich/practice/learning-c/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.runtimeconfig.json
+/Users/ashleybreunich/practice/learning-c/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.runtimeconfig.dev.json
+/Users/ashleybreunich/practice/learning-c/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.dll
+/Users/ashleybreunich/practice/learning-c/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.pdb
+/Users/ashleybreunich/practice/learning-c/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.csprojAssemblyReference.cache
+/Users/ashleybreunich/practice/learning-c/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/ashleybreunich/practice/learning-c/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/ashleybreunich/practice/learning-c/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.AssemblyInfo.cs
+/Users/ashleybreunich/practice/learning-c/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.dll
+/Users/ashleybreunich/practice/learning-c/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.pdb
